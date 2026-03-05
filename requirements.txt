@@ -4,3 +4,4 @@ plotly
 opencv-python
 numpy
 scikit-learn
+scipy
